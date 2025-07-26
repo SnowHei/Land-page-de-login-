@@ -40,17 +40,14 @@ Uma landing page de login extremamente bonita e moderna, criada com HTML, CSS e 
 
 ## 🚀 Como Usar
 
-### 1. Abrir a Página
-Abra o arquivo `index.html` em qualquer navegador moderno.
-
-### 2. Credenciais de Teste
+### 1. Credenciais de Teste
 Use uma das seguintes combinações para testar o login:
 
 - **E-mail**: `demo@example.com` | **Senha**: `demo123`
 - **E-mail**: `admin@example.com` | **Senha**: `admin123`
 - **E-mail**: `user@example.com` | **Senha**: `user123`
 
-### 3. Funcionalidades Disponíveis
+### 2. Funcionalidades Disponíveis
 - Digite credenciais válidas para ver mensagem de sucesso
 - Digite credenciais inválidas para ver animação de erro
 - Clique no ícone do olho para mostrar/ocultar senha
